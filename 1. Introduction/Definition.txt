@@ -1,0 +1,15 @@
+What is Python?
+
+Python is a high-level programming language known for its simplicity and
+readability.Just like we use Hindi language to communicate and express ourselves,python is a language for computers to understand our instructions & perform
+tasks.
+
+Python was created by Guido van Rossum in 1991.
+
+Python is an interpreted language, which means that the code is executed line by line.
+
+Why Python?
+
+Python is one of the easiest programming languages to learn and known for its
+versatility and user-friendly syntax, is a top choice among programmers.Also, python is an open source (free) programming language and have extensive
+libraries to make programming easy. Python has massive use across different industries with excellent job opportunities.
