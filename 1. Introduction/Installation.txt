@@ -1,0 +1,11 @@
+Installing  Python:
+
+Step 1: Go to website: https://www.python.org/downloads/
+Step 2: Click on “Download Python” button
+(Download the latest version for Windows or macOS or Linux or other)
+Step 3: Run Executable Installer
+Step 4: Add Python to Path
+Step 5: Verify Python Was Installed on Windows
+
+Open the command prompt and run the following command:
+python --version
